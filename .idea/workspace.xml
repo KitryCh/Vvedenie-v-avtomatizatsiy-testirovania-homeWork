@@ -4,17 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a711c33-ccb9-48ae-a9cc-747fc9ebd38a" name="Changes" comment="" />
+    <list default="true" id="1a711c33-ccb9-48ae-a9cc-747fc9ebd38a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork1/MontyHallGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork1/MontyHallGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HomeWork1/MontyHallParadox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HomeWork1/MontyHallParadox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork1/MontyHallGameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWork1/MontyHallGameTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2dSk1xYc7EBGV44HD4zHlbMflqT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,9 +37,103 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.MontyHallGameTest.testPlaceCarNegative">
+    <configuration name="MontyHallGameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vvedenie-v-avtomatizatsiy-testirovania-homeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork1" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork1.MontyHallGameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MontyHallGameTest.testOpenDoor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vvedenie-v-avtomatizatsiy-testirovania-homeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork1" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork1.MontyHallGameTest" />
+      <option name="METHOD_NAME" value="testOpenDoor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MontyHallGameTest.testPlaceCar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vvedenie-v-avtomatizatsiy-testirovania-homeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork1" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork1.MontyHallGameTest" />
+      <option name="METHOD_NAME" value="testPlaceCar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MontyHallGameTest.testPlaceCarNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vvedenie-v-avtomatizatsiy-testirovania-homeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork1" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork1.MontyHallGameTest" />
+      <option name="METHOD_NAME" value="testPlaceCarNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MontyHallGameTest.testSwitchDoor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Vvedenie-v-avtomatizatsiy-testirovania-homeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork1" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork1.MontyHallGameTest" />
+      <option name="METHOD_NAME" value="testSwitchDoor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MontyHallGameTest.testPlaceCarNegative" />
+        <item itemvalue="JUnit.MontyHallGameTest.testSwitchDoor" />
+        <item itemvalue="JUnit.MontyHallGameTest.testOpenDoor" />
+        <item itemvalue="JUnit.MontyHallGameTest.testPlaceCar" />
+        <item itemvalue="JUnit.MontyHallGameTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
