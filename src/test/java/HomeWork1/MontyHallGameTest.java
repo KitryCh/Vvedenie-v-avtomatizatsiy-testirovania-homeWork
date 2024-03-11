@@ -46,6 +46,7 @@ public class MontyHallGameTest {
     @Test
     public void testPlaceCarNegative() {
         MontyHallGame game = new MontyHallParadox();
+        //У Вас метод placeCar не пробасает Exception
         assertThrows(IllegalArgumentException.class, game::placeCar);
     }
 
@@ -54,6 +55,7 @@ public class MontyHallGameTest {
     @Test
     public void testOpenDoorNegative() {
         MontyHallGame game = new MontyHallParadox();
+        //У Вас метод openDoor не пробасает Exception
         assertThrows(IllegalArgumentException.class, () -> game.openDoor(0, 0));
     }
 
@@ -62,6 +64,7 @@ public class MontyHallGameTest {
     @Test
     public void testSwitchDoorNegative() {
         MontyHallGame game = new MontyHallParadox();
+        //У Вас метод switchDoor не пробасает Exception
         assertThrows(IllegalArgumentException.class, () -> game.switchDoor(0, 0));
     }
 }
